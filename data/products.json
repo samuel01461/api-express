@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Placa RTX 3050 Nvidia Geforce Asus Phoenix Ph-rtx3050-8g 8gb",
+    "price": "350"
+  },
+  {
+    "id": 2,
+    "name": "RAM DDR3L 8GB 1600mhz Hikvision",
+    "price": "20"
+  },
+  {
+    "id": 3,
+    "name": "SSD 2TB",
+    "price": "14"
+  }
+]
